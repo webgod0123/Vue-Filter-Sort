@@ -1,4 +1,4 @@
-# Web-App-1
+# Vuejs Framework Filter & Sort App
 
 ## Project setup
 ```
